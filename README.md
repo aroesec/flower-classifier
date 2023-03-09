@@ -1,6 +1,6 @@
-# flower classifier for ML learning
+# is your dog Mia?
 
-# If on mac specifically mac m1, use the below link to set up a conda envg
+# if on mac specifically mac m1, use the below link to set up a conda envg
 
 https://developer.apple.com/metal/tensorflow-plugin/
 
